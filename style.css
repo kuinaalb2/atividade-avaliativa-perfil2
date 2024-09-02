@@ -1,0 +1,68 @@
+:root {
+    --cor-de-fundo: #9392f7;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: white;
+}
+
+.titulo {
+    font-size: 50px;
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
+
+.foto {
+    width: 20%;
+    border-radius: 20px;
+    box-shadow: rgba(233, 9, 58, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+
+.sobre {
+    text-align: center;
+    font-size: 20px;
+    margin: 80px;
+}
+
+.titulo-curiosidades {
+    font-size: 40px;
+    text-align: center;
+    color: #000000;style.css
+}
+
+.curiosidades {
+    font-size: 20px;
+    margin: 100px;
+    color: #7a3b4b;
+}
+
+.item-dois {
+    color: #000000;
+}
+
+.item-tres {
+    color: #000000;
+}
+
+.item-quatro {
+    color: #000000;
+}
+
+.instagram {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.instagram:hover {
+    color:#d38c99;
+}
+
+.instagram-icone {
+    width: 30px;
+    margin-left: 900px;
+}
